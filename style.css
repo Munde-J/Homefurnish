@@ -1,0 +1,168 @@
+body{
+    background-image: linear-gradient(to bottom right  red,blue );
+
+}
+.feel{
+    color: rgb(255, 255, 255);
+}
+/* .love{
+    margin-left: 12%;
+    width:14%;
+    margin-bottom: -100px;
+} */
+.navbar ul{
+    display: flex;
+    float: right;
+    list-style: none;
+    position: absolute;
+    right: 0px;
+
+}
+.navbar ul a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.text1{
+    padding-left: 10%;
+    font-size: 30px;
+    margin-top: -5%;
+    /* width:14%; */
+    color: rgb(255, 255, 255);
+  
+}
+.images{
+    /* position: relative; */
+}
+.images p{
+    /* position: absolute; */
+}
+.container{
+    background-color: white;
+    text-align:center;
+    height: 490px;
+    width: 845px;
+    margin-left: 10%;
+    padding: 20px;
+    margin-left: 10%;
+
+}
+.who{
+    margin-right: 74%;
+    font-size: 30px;
+}
+.container p{
+    margin-left: 20px;
+    width: 144.9px;
+
+}
+.image2{
+    margin-top: -131px;
+    margin-left: -290px;
+}
+.image3{
+    margin-top: -47%;
+    margin-left: 21%;
+    /* margin-right: 4%; */
+   
+}
+.image4{
+    margin-top: -54%;
+    margin-left: 75%;
+}
+.container2{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 550px;
+    width: 846px;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+.image5{
+    margin-right: 50%;
+    
+}
+.image8{
+    margin-top: -244px;
+    margin-left: 32%;
+}
+.image9{
+    margin-top: -244px;
+    margin-left: 79%;
+
+}
+.image10{
+    margin-right: 500%;
+    margin-top: 6px;
+}
+.image11{
+    margin-top: -244px;
+    margin-right: 32%;
+}
+.image12{
+    margin-top: -244px;
+    margin-left: 47%;
+}
+.container3{
+    background-color: rgb(248, 246, 246);
+    text-align: center;
+    height: 600px;
+    width: 846px;
+    margin-left: 10%;
+    padding: 20px;
+    margin-top: 20px;
+}
+.drop{
+    margin-right: 60%;
+    
+}
+.name{
+    /* display: flex; */
+    margin-right: 88%;
+}
+.name input{
+    margin-left: 30%;
+    width: 360px;
+    height: 40px;
+}
+.mail{
+    margin-right: 88%;
+    
+   
+}
+.mail input{
+    margin-left: 30%;
+    width: 360px;
+    height: 40px;
+
+}
+.sms{
+    margin-right: 88%;
+}
+.sms p{
+    margin-left: 13px;
+}
+.sms input{
+    margin-left: 30%;
+    width: 360px;
+    height: 180px;
+}
+button{
+    margin-top: 20px;
+    margin-right: 654px;
+    width: 130px;
+    height: 42px;
+    border-radius: 30px;
+    /* border-style: none; */
+}
+.image13{
+    margin-left: 36%;
+    margin-top: -55%;
+    border-radius: 200px;
+    
+}
+
+
+
